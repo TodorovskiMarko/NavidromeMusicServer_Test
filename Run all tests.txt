@@ -1,0 +1,1 @@
+Use 'npx playwright test --config=src/playwright.config.ts' to run all the tests

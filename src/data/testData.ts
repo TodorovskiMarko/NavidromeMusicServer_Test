@@ -1,0 +1,22 @@
+export const testData = {
+  username: "demo",
+  password: "demo",
+  albumName: "Golden Standard",
+  playlistName: "Test Playlist",
+  shareDescription: "FIREEEEE",
+  year: "2005",
+  playlistName2: "Best Playlist",
+  shareDescription2: "Banger",
+  artistName: "Brock Berrigan",
+  songName: "A Cherry on Top",
+  radioName: "98 Rock BR",
+  shareDescription3: "Play thiss",
+  newShareDescription: "Lemme put you on this",
+  dateValue: "2025-07-06T15:41",
+  date: "7/6/2025",
+  namePlaylist: "For you",
+  playlistComment: "For a special person",
+  namePlaylist2: "Bazinga",
+  namePlaylist3: "Yoooo",
+  namePlaylist4: "Chill"
+};
